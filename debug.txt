@@ -1,0 +1,22 @@
+UserWarning: use an explicit session with no_cursor_timeout=True otherwise the cursor may still timeout after 30 minutes,
+for more info see https://mongodb.com/docs/v4.4/reference/method/cursor.noCursorTimeout/#session-idle-timeout-overrides-nocursortimeout
+return Cursor(self, *args, **kwargs)
+
+文件大意: 
+使用了no_cursor_timeout=True,也應該明確使用一個seesion,
+否則cursor仍有可能在30分鐘後超時
+
+程式修改: noisefilter.py
+111
+with client.start_session() as session:
+		searchlog_data = searchlog.find(filter, no_cursor_timeout=True, session = session)
+
+有CURD操作如find,update_one等,後方也有新增session = session
+有新增的行數: 
+121
+140
+141
+179
+189
+195
+

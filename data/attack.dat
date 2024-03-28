@@ -1,0 +1,7 @@
+win.ini
+boot.ini
+c:
+file:
+etc\\passwd
+../
+\\\\.

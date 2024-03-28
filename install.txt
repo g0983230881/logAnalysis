@@ -1,0 +1,5 @@
+#安裝的python套件
+pip install netaddr
+pip install numpy
+pip install --upgrade google-api-python-client
+
