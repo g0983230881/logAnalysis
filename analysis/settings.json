@@ -1,0 +1,6 @@
+{
+	"search_log_dir": "/mnt/backup/edumarket_data_backup/logs",
+	"mghost": "localhost",
+	"mgport": 27017,
+	"mg_db_name": "marketanalysis"
+}

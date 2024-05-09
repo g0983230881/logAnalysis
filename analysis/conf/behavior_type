@@ -1,0 +1,6 @@
+[['R','M_R','D','M_D','Q','QA','M_Q','M_Q_K9','M_Q_K12','M_Q_Sup','K','RK','DK','M_RK','HK','AU','M_AU','UP','M_UP','Relation','M_Relation'],
+['F','M_F','L','M_L'],
+['SE','M_SE','SG','M_SG','SF','M_SF','ST','M_ST','SL'],
+['MYRES_ALink','MYRES_ALinkNon','MYRES_ALinkF','MYRES_ARLink','MYRES_ARLinkNon','MYRES_ARLinkF','MYRES_ShaFol','MYRES_QuoFol','MYRES_QuoFolF'],
+['C','M_C','MC','M_MC','H','M_H'],
+['MYRES_AFol','MYRES_AFolF','MYRES_DelFol','MYRES_DelFolF','MYRES_RFol','MYRES_RfolF','MYRES_DownFile','MYRES_DownFileF','MYRES_DownLink','MYRES_DelFile','MYRES_DelFileF','MYRES_DelR','MYRES_DelRF','MYRES_SR','MYRES_SRF','MYRES_UP','MYRES_UPF','MYRES_MVFile','MYRES_MVFileF','MYRES_MVRes','MYRES_MVResF','MYRES_CFol','MYRES_CFolNon','MYRES_CRes','MYRES_MVFol','MYRES_MVFolF','MYRES_AResK9','MYRES_AResK9F','MYRES_EResK9','MYRES_EResK9F','MYRES_AResK12','MYRES_AResK12F','MYRES_EResK12','MYRES_EResK12F','MYRES_AResEb','MYRES_AResEbF','MYRES_EResEb','MYRES_EResEbF','MYRES_RtoEdit'],]
